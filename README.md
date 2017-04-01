@@ -15,3 +15,5 @@
 4.) Simple HTTPAuth   --> Done!
 
     4.1) Encryption needed (HTTPS/SSL) or Token-Based Auth??
+    
+5.) Automated update (every 24 hours) needs better thread-handling
