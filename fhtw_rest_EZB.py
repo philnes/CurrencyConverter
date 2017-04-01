@@ -35,8 +35,8 @@ banner += ' :         :   : :     :       :: :  : : \n'
 # curl -u username:password -i http://localhost:5000/exchange/getAll
 @auth.get_password
 def get_password(username):
-    if username == 'ic16m014':
-        return 'python'
+    if username == 'bill':
+        return 'gates'
     return None
 
 
